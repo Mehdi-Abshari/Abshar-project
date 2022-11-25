@@ -81,12 +81,12 @@ body {
   margin: 10px;
   box-shadow: 0 0 15px #bbbbbb;
   transition: 0.5s;
-  transition-property: transform ;
+  transition-property: transform;
 }
 .member-item:hover {
   transform: scale(1.04);
   box-shadow: 0 0 5px tomato;
-  transition-property: transform ,box-shadow;
+  transition-property: transform, box-shadow;
   cursor: pointer;
 }
 .member-pic {
